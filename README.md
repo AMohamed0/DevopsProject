@@ -63,8 +63,7 @@ The primary objective of this project was to establish a robust DevOps pipeline 
 Here are some visual representations and screenshots of the project components:
 
 1. **Infrastructure Diagram**
-   ![Infrastructure Diagram](<img width="1198" alt="Screenshot 2023-09-01 at 8 57 29 PM" src="https://github.com/AMohamed0/DevopsProject/assets/116996401/528365d7-2887-4286-992b-34b416107751">
-)
+   ![Infrastructure Diagram](![Alt text](<images/Screenshot 2023-09-01 at 8.57.29 PM.png>) ![Alt text](<images/Screenshot 2023-09-01 at 9.00.33 PM.png>) ![Alt text](<images/Screenshot 2023-09-01 at 9.28.02 PM.png>))
 
 2. **CI/CD Pipeline Flow**
    ![CI/CD Pipeline Flow](images/cicd_flow.png)
