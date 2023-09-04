@@ -58,26 +58,9 @@ The primary objective of this project was to establish a robust DevOps pipeline 
 
 - **Kubernetes Cluster Monitoring**: Collected and visualized metrics from the Kubernetes cluster using Prometheus and Grafana dashboards.
 
-## Project Visuals
-
-Here are some visual representations and screenshots of the project components:
-
-1. **Infrastructure Diagram**
-   ![Infrastructure Diagram](![Alt text](<images/Screenshot 2023-09-01 at 8.57.29 PM.png>) ![Alt text](<images/Screenshot 2023-09-01 at 9.00.33 PM.png>) ![Alt text](<images/Screenshot 2023-09-01 at 9.28.02 PM.png>))
-
-2. **CI/CD Pipeline Flow**
-   ![CI/CD Pipeline Flow](images/cicd_flow.png)
-
-3. **SonarQube Dashboard**
-   ![SonarQube Dashboard](images/sonarqube_dashboard.png)
-
-4. **Kubernetes Cluster Overview**
-   ![Kubernetes Cluster Overview](images/kubernetes_cluster.png)
-
-5. **Prometheus Metrics**
-   ![Prometheus Metrics](images/prometheus_metrics.png)
-
 ## Conclusion
 
 This DevOps project encompasses an array of tools and technologies to automate and streamline development, deployment, and monitoring. The integration of Jenkins, Terraform, Ansible, SonarQube, JFrog Artifactory, Kubernetes, Prometheus, and Grafana has resulted in a powerful and scalable DevOps pipeline.
+
+**Project Visuals Folder**: If you'd like to view the full collection of project images, you can find them in the "images" folder in this repository.
 
