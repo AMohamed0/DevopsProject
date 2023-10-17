@@ -70,8 +70,6 @@ The primary objective of this project was to establish a robust DevOps pipeline 
 
 - **Prometheus and Grafana Setup**: Configured Prometheus and Grafana using Helm charts to monitor the Kubernetes cluster and application performance.
 
-- **Kubernetes Cluster Monitoring**: Collected and visualized metrics from the Kubernetes cluster using Prometheus and Grafana dashboards.
-
   ![PrometheusPods.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/PrometheusPods.png)
   ![Grafana.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/Grafana.png)
   ![GrafanaGraph.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/GrafanaGraph.png)
