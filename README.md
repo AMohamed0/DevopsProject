@@ -54,8 +54,6 @@ The primary objective of this project was to establish a robust DevOps pipeline 
 
 - **Docker Containerization**: Created Dockerfiles to containerize application components.
 
-- **Artifactory for Docker Images**: Stored Docker images on JFrog Artifactory for version control and distribution.
-
   ![DockerRunning.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/DockerRunning.png)
   ![ContainerInfo.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/ContainerInfo.png)
   ![DockerImagesJfrog.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/DockerImagesJfrog.png)
