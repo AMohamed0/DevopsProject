@@ -16,6 +16,9 @@ The primary objective of this project was to establish a robust DevOps pipeline 
 
 - **Ansible for Configuration**: Utilized Ansible for automated configuration management tasks across the infrastructure.
 
+  ![EC2Instances.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/EC2Instances.png)
+  ![AnsibleSetup.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/AnsibleSetup.png)
+
 ### CI/CD Pipeline Automation
 
 - **Jenkins and Ansible Integration**: Configured Jenkins controller and build node using Ansible playbooks to ensure consistent environments.
@@ -28,6 +31,11 @@ The primary objective of this project was to establish a robust DevOps pipeline 
 
 - **GitHub Webhook Integration**: Enabled GitHub webhooks to trigger automated builds and deployments upon code changes.
 
+  ![MavenSetup.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/MavenSetup.png)
+  ![JenkinsCISetup.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/JenkinsCISetup.png)
+  ![Jenkins.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/Jenkins.png)
+  ![GithubWebhook.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/GithubWebhook.png)
+
 ### Code Quality and Security
 
 - **SonarQube Integration**: Integrated SonarQube for code quality analysis and adherence to coding standards.
@@ -38,6 +46,8 @@ The primary objective of this project was to establish a robust DevOps pipeline 
 
 - **SonarQube Callbacks**: Set up callback rules to notify development teams of code quality issues.
 
+  ![SonarQube.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/SonarQube.png)
+
 ### Artifact Management
 
 - **JFrog Artifactory Configuration**: Established JFrog Artifactory to store Docker images and other artifacts.
@@ -46,11 +56,17 @@ The primary objective of this project was to establish a robust DevOps pipeline 
 
 - **Artifactory for Docker Images**: Stored Docker images on JFrog Artifactory for version control and distribution.
 
+  ![DockerRunning.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/DockerRunning.png)
+  ![ContainerInfo.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/ContainerInfo.png)
+  ![DockerImagesJfrog.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/DockerImagesJfrog.png)
+
 ### Kubernetes Deployment
 
 - **Provisioning Kubernetes Objects**: Deployed Kubernetes objects such as pods, services, and deployments to facilitate application deployment.
 
 - **Helm Chart Deployment**: Utilized Helm charts for simplified management of Kubernetes deployments and releases.
+
+  ![AppDeploy.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/AppDeploy.png)
 
 ### Monitoring and Observability
 
@@ -58,9 +74,12 @@ The primary objective of this project was to establish a robust DevOps pipeline 
 
 - **Kubernetes Cluster Monitoring**: Collected and visualized metrics from the Kubernetes cluster using Prometheus and Grafana dashboards.
 
+  ![PrometheusPods.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/PrometheusPods.png)
+  ![Grafana.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/Grafana.png)
+  ![GrafanaGraph.png](https://raw.githubusercontent.com/AMohamed0/DevopsProject/main/images/GrafanaGraph.png)
+
 ## Conclusion
 
 This DevOps project encompasses an array of tools and technologies to automate and streamline development, deployment, and monitoring. The integration of Jenkins, Terraform, Ansible, SonarQube, JFrog Artifactory, Kubernetes, Prometheus, and Grafana has resulted in a powerful and scalable DevOps pipeline.
 
-**Project Visuals Folder**: If you'd like to view the full collection of project images, you can find them in the "images" folder in this repository.
 
